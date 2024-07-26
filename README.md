@@ -136,4 +136,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-Feel free to customize the content according to your specific project details and requirements. This structure provides a clear and concise overview of the project, setup instructions, and code explanation.
+This structure provides a clear and concise overview of the project, setup instructions, and code explanation.
